@@ -1,0 +1,29 @@
+.content{
+    border-radius: 10px;
+    width: 100%;
+   padding-right: 5px;
+   background-color: #e5e5e5;
+
+}
+.content h2{
+    direction: rtl;
+    padding: 10px 5px;
+    
+   
+    color: rgba(0, 0, 0, 0.596);
+    font-size: 18px;
+}
+
+.content_right_header i {
+    font-size: 30px;
+}
+
+
+.Main_Movie{
+    padding-left: 10px;
+  
+}
+.Main :hover{
+    background-color: pink;
+    color: black;
+}

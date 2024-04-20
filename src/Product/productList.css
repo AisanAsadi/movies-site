@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+
+.productlist {
+    background-color: rgb(38, 38, 38);
+    display: flex;
+    border-radius: 10px;
+    width: 98%;
+    height: 400px;
+
+}
+
+.Main_content{
+    
+}
+
+.productlist p {
+
+    display: flex;
+    justify-content: space-between;
+    direction: rtl;
+    color: #d1d0cf;
+    display: flex;
+    justify-content: space-between;
+
+    display: block;
+    margin: 10px 10px;
+    text-align: right;
+    position: relative;
+  
+
+
+}
+
+img {
+
+    direction: ltr;
+
+    text-align: left;
+
+    max-height: 295px;
+    border-radius: 6px;
+    min-width: 225px;
+
+}
+
+.img_list {
+    position: relative;
+    bottom: 70%;
+    right: 20%;
+  
+    direction: ltr;
+
+}
+.score p{
+    color: yellow;
+}

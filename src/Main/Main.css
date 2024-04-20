@@ -1,0 +1,39 @@
+.Main p {
+    border-radius: 0 0 8px 8px;
+    padding: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color: #f1658f;
+    width: 150px;
+    font-size: 15px;
+    
+
+}
+
+.Main_content{
+     width: 35%;
+     box-shadow: 0 0 25px 5px rgba(0, 0, 0, 0.336);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     border-radius: 10px;
+     padding: 0 ;
+}
+.Main {
+ 
+  
+    
+    justify-content: space-between;
+    display: inline-flex;
+    margin: 3px 3px;
+    border-radius: 10px;
+    font-size: 11px;
+    align-items: center;
+    box-sizing: border-box;
+    color: rgba(241, 101, 143, .6);
+    border: 1px solid rgba(229, 229, 229);
+    border-radius: 5px;
+    align-items: center;
+   
+}
